@@ -21,6 +21,7 @@ The analysis involved calculating, comparing, and trending profitability metrics
 1. India GM% Fluctuation: The India sub-zone showed a significant decline in its average GM%, falling from 42.4% in FY 2019 to 32.0% in FY 2021. This substantial 10% drop warrants investigation into cost pressures or competitive pricing.
 
 **Tools & Technologies**
+
 Data Analysis: MS Excel
 
 Visualization/Reporting: MS Excel
